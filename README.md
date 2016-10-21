@@ -7,5 +7,20 @@ Sources of the logos of different meshnets.
 - Readily drawn logo of Berlin Meshnet
 - SVG file with a variation of the Project Meshnet logo (thanks ansuz)
 - SVG of a Hyperboria logo (thanks derp)
+- SVG file of a template of the 3 circles
 
 ![Berlin Meshnet](https://raw.githubusercontent.com/berlinmeshnet/logos/master/berlinmeshnet.png)
+
+###Possible Designs:
+
+w/ City Hall
+![TOMesh.net 1](https://raw.githubusercontent.com/tomeshnet/logos/tomeshnet1.png)
+
+
+w/ CN Tower
+![TOMesh.net 2](https://raw.githubusercontent.com/tomeshnet/logos/tomeshnet2.png)
+
+w/ CN Tower - alternate
+![TOMesh.net 2 alt](https://raw.githubusercontent.com/tomeshnet/logos/tomeshnet2-nowave.png)
+
+note: these designs are WIP.
