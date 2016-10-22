@@ -20,4 +20,7 @@ w/ CN Tower
 w/ CN Tower - alternate
 ![TOMesh.net 2 alt](https://raw.githubusercontent.com/tomeshnet/logos/master/tomeshnet2-nowave.png)
 
+w/ CN Tower Top
+![TOMesh.net 3](https://raw.githubusercontent.com/tomeshnet/logos/master/tomeshnet3.png)
+
 note: these designs are WIP.
