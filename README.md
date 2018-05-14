@@ -1,36 +1,34 @@
-# Toronto Mesh Logos and Stickers
+# Toronto Mesh Design
 
-## Stickers
+This repository is for all Toronto Mesh related graphic work.  Files are grouped by project.
 
-3 designs are located in `2017-stickers` based on voting for stickers to print for the [State of Our Networks 2017 event](https://tomesh.net/state-of-our-networks/).
+## File types
 
-Credits:
-- `tomesh-sticker-meshnet` [WilliamRutherford](https://github.com/WilliamRutherford)
-- `tomesh-sticker-waves` [Hamalittle](https://github.com/Hamalittle)
-- `tomesh-sticker-soon` [dcwalk](https://github.com/dcwalk)
-  - Relies on GTA boundary map by [Mortadelo2005](https://en.wikipedia.org/wiki/File:Greater_toronto_area_map.svg) CC BY-SA 3.0
+Toronto Mesh website code should be directed towards the [tomesh.net](https://github.com/tomeshnet/tomesh.net) repository.
 
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Toronto Mesh sticker designs</span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+For assets intended to be used by others an open format should be included alongside the original format if possible, this is not a hard rule although it is a hard suggestion and depending on the content and its intended use open formats may be required when submitting new graphics.  For vectors intended for use by others a high quality bitmap should ideally be included.
 
-## Logos
+## Organization
 
-Potential Toronto Mesh logos are in the top level of the repository.
-Note: these designs are WIP. Previous designs which have not been adopted are in `/notused`
+Design work that is currently in use or should be used by others goes into the 'current-assets' directory.  Work that has been depreciated lives in the 'legacy-assets' directory.
 
-Red
-![TOMesh.net red](https://raw.githubusercontent.com/tomeshnet/logos/master/tomeshnetRed.png)
+Layered graphics formats (AI, SVG, PSD) that are in the 'current-assets' directory and are intended for production use should have some semblance of organized layers.  This is not a requirement of graphics that are currently in development.
 
-w/ CN Tower Top
-![TOMesh.net blue](https://raw.githubusercontent.com/tomeshnet/logos/master/tomeshnetBlue.png)
-
-To make your own, use the template `.svg` or `.ai`.
-
-## Assets
+## Meshnet Community Assets
 
 Sources of the logos of different meshnets.
 
-- XCF file with paths for the circles
 - Readily drawn logo of Berlin Meshnet
-- SVG file with a variation of the Project Meshnet logo (thanks ansuz)
 - SVG of a Hyperboria logo (thanks derp)
-- SVG file of a template of the 3 circles
+
+## Credits
+
+- `tomesh-sticker-meshnet` [WilliamRutherford](https://github.com/WilliamRutherford)
+- `tomesh-sticker-wave` [Hamalittle](https://github.com/Hamalittle)
+- `tomesh-sticker-soon` [dcwalk](https://github.com/dcwalk)
+  - Relies on GTA boundary map by [Mortadelo2005](https://en.wikipedia.org/wiki/File:Greater_toronto_area_map.svg) CC BY-SA 3.0
+- `city-hall-wifi` [Shrinks99](https://github.com/Shrinks99)
+
+## License
+  
+Toronto Mesh sticker designs are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
