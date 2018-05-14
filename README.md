@@ -10,7 +10,7 @@ For assets intended to be used by others an open format should be included along
 
 ## Organization
 
-Design work that is currently in use or should be used by others goes into the 'current-assets' directory.  Work that has been depreciated lives in the 'legacy-assets' directory.
+Design work that is currently in use or should be used by others goes into the 'current-assets' directory.  Work that has been deprecated lives in the 'legacy-assets' directory.
 
 Layered graphics formats (AI, SVG, PSD) that are in the 'current-assets' directory and are intended for production use should have some semblance of organized layers.  This is not a requirement of graphics that are currently in development.
 
@@ -30,5 +30,5 @@ Sources of the logos of different meshnets.
 - `city-hall-wifi` [Shrinks99](https://github.com/Shrinks99)
 
 ## License
-  
+
 Toronto Mesh sticker designs are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
