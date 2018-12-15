@@ -6,7 +6,9 @@ This repository is for all Toronto Mesh related graphic work.  Files are grouped
 
 Toronto Mesh website code should be directed towards the [tomesh.net](https://github.com/tomeshnet/tomesh.net) repository.
 
-For assets intended to be used by others an open format should be included alongside the original format if possible, this is not a hard rule although it is a hard suggestion and depending on the content and its intended use open formats may be required when submitting new graphics.  For vectors intended for use by others a high quality bitmap should ideally be included.
+For assets intended to be used by others, an open format should be included alongside the original format if possible. This is not a hard rule although it is a hard suggestion and depending on the content and its intended use open formats *may* be required when submitting new graphics. For vectors intended for use by others a high quality bitmap should ideally be included.
+
+Fonts must be open source and/or free to redistribute according to their license.  Fonts should ideally be submitted in OTF format however if only TTF is available so be it.
 
 ## Organization
 
@@ -28,6 +30,7 @@ Sources of the logos of different meshnets.
 - `tomesh-sticker-soon` [dcwalk](https://github.com/dcwalk)
   - Relies on GTA boundary map by [Mortadelo2005](https://en.wikipedia.org/wiki/File:Greater_toronto_area_map.svg) CC BY-SA 3.0
 - `city-hall-wifi` [Shrinks99](https://github.com/Shrinks99)
+- `work-sans` [Wei Huang](https://github.com/weiweihuanghuang/Work-Sans)
 
 ## License
 
